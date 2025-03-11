@@ -10,7 +10,6 @@
 <h1 align="center">I'm Xia Feng</h1>
 
 - 🐱‍👤 I'm currently learning python.
-- ✨ Pronouns: `He` / `Him`
 - 📫 How to reach me: [kyphosis](https://discord.com/users/415117701007015946) on Discord
 - 🎭 Fun fact: I'm 18 and I have no idea how to code :)
 
