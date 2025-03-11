@@ -8,7 +8,7 @@
   </picture>
 </div>
 <h1 align="center">I'm Xia Feng</h1>
-![giphy](https://github.com/user-attachments/assets/7e5d284b-2b9e-4643-9616-075673071015)
+
 
 - 🐱‍👤 I'm currently learning python.
 - 📫 How to reach me: [kyphosis](https://discord.com/users/415117701007015946) on Discord
