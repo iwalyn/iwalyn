@@ -9,8 +9,6 @@
 </div>
 <h1 align="center">I'm Angkor</h1>
 
-
-- 🐱‍👤 I'm currently learning python.
 - 📫 How to reach me: [kyphosis](https://discord.com/users/415117701007015946) on Discord.
 
 ### 🐙 Technologies
