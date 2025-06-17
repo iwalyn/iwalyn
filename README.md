@@ -7,12 +7,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&section=section&text=%F0%9F%91%8B%20Hi%20there%21&fontSize=60" />
   </picture>
 </div>
-<h1 align="center">I'm Xia Feng</h1>
+<h1 align="center">I'm Angkor</h1>
 
 
 - 🐱‍👤 I'm currently learning python.
-- 📫 How to reach me: [kyphosis](https://discord.com/users/415117701007015946) on Discord
-- 🎭 Fun fact: I'm 18 and I have no idea how to code :)
+- 📫 How to reach me: [kyphosis](https://discord.com/users/415117701007015946) on Discord.
 
 ### 🐙 Technologies
 
