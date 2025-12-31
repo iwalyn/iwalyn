@@ -36,12 +36,12 @@
 
 ### 📈 My WakaTime Stats
 
-<a href="https://wakatime.com/@Xia_Beifeng">
+<a href="https://wakatime.com/@erxn_iwalyn">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Xia_Beifeng&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=erxn_iwalyn&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xia_Beifeng&layout=compact&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=erxn_iwalyn&layout=compact&theme=github_dark" />
   </picture>
 </a>
