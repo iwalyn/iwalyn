@@ -41,6 +41,7 @@
     <source
       srcset="https://github-readme-stats.vercel.app/api/wakatime?username=erxn_iwalyn&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      <figure><embed src="https://wakatime.com/share/@erxn_iwalyn/84101a40-ac23-4c9d-8a02-1ca608c88abb.svg"></embed></figure>
     />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=erxn_iwalyn&layout=compact&theme=github_dark" />
   </picture>
