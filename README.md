@@ -10,7 +10,7 @@
 <h1 align="center">Welcome To My Page!</h1>
 
 - 📫 How to reach me: [erxn](https://discord.com/users/415117701007015946) on Discord.
-
+- Academic Github Account = [yunhanref](https://www.github.com/yunhanref)
 ### 🐙 Technologies
 
 <p align="left">
