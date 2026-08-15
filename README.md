@@ -22,27 +22,3 @@
   </a>
 </p>
 
-### 📈 My Github Stats
-
-<a href="https://github.com/iwalyn">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=iwalyn&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=iwalyn&show_icons=true&theme=github_dark" />
-  </picture>
-</a>
-
-### 📈 My WakaTime Stats
-
-<a href="https://wakatime.com/@erxn_iwalyn">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=erxn_iwalyn&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      <figure><embed src="https://wakatime.com/share/@erxn_iwalyn/84101a40-ac23-4c9d-8a02-1ca608c88abb.svg"></embed></figure>
-    />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=erxn_iwalyn&layout=compact&theme=github_dark" />
-  </picture>
-</a>
